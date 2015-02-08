@@ -150,7 +150,7 @@ body{
   top: 50%;
   margin-top: -0.4rem;
 }
-.page1.curr .text-container p, .page1.curr .circle, .gage1.curr .line {
+.page1.curr .text-container p, .page1.curr .circle, .page1.curr .line {
     -webkit-animation-name: zoomIn;
             animation-name: zoomIn;
 }

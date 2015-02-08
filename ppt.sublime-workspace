@@ -1,0 +1,601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sca",
+				"scaleFormat"
+			],
+			[
+				"tran",
+				"translateFormat"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"page",
+				"pageHeight"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"get",
+				"getBoundingClientRect"
+			],
+			[
+				"next",
+				"nextPage"
+			],
+			[
+				"tra",
+				"translateFormat"
+			],
+			[
+				"touch",
+				"touchEnd"
+			],
+			[
+				"to",
+				"touchstart"
+			],
+			[
+				"stat",
+				"startAtY"
+			],
+			[
+				"prev",
+				"prevPage"
+			],
+			[
+				"curr",
+				"currentPage"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"fl",
+				"fadeInLeft"
+			],
+			[
+				"pre",
+				"prevIndex"
+			],
+			[
+				"cu",
+				"currentIndex"
+			],
+			[
+				"ba",
+				"backward-btn"
+			],
+			[
+				"fr",
+				"forward-btn"
+			],
+			[
+				"border-ra",
+				"webkit-border-radius"
+			],
+			[
+				"sea",
+				"sea-modules"
+			],
+			[
+				"Sc",
+				"script"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"clea",
+				"clearfix"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.html",
+			"settings":
+			{
+				"buffer_size": 10613,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/tnaught/Desktop/xichao/田琴/modify.txt",
+			"settings":
+			{
+				"buffer_size": 587,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/animation.css",
+			"settings":
+			{
+				"buffer_size": 72921,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/app.css",
+			"settings":
+			{
+				"buffer_size": 17871,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/app.min.css",
+			"settings":
+			{
+				"buffer_size": 13142,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/YUI Compressor/YUI Compressor.sublime-build",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax:javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"packageinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"packagere",
+				"Package Control: Remove Package"
+			],
+			[
+				"packagelist",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packagei",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/tnaught/Desktop/xichao/html",
+		"/C/Users/tnaught/Desktop/xichao/html/css",
+		"/C/Users/tnaught/Desktop/xichao/html/js"
+	],
+	"file_history":
+	[
+		"/C/Users/tnaught/Desktop/xichao/归档 (2)/problems.txt",
+		"/C/Users/tnaught/Desktop/xichao/html/js/app.js",
+		"/C/Users/tnaught/Desktop/xichao/html/test.html",
+		"/F/dianxinos/code/3y_cms_front_web/target/classes/public/dxhot/javascripts/tiny.js",
+		"/C/Users/tnaught/Desktop/xichao/田琴/modify.txt",
+		"/D/fuck-project/static/home/sass/includes/_layout.scss",
+		"/D/fuck-project/static/home/sass/screen.scss",
+		"/D/fuck-project/sea-modules/holder/holder.js",
+		"/D/fuck-project/test.html",
+		"/D/fuck-project/static/home/js/src/carousel.js",
+		"/D/fuck-project/home.html",
+		"/D/fuck-project/README.md",
+		"/D/fuck-project/sass/_grid.scss",
+		"/D/fuck-project/sass/_navbar.scss",
+		"/D/fuck-project/stylesheets/screen.css",
+		"/D/fuck-project/sass/_layout.scss",
+		"/D/fuck-project/sass/screen.scss",
+		"/D/fuck-project/.gitignore",
+		"/C/Users/tnaught/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/tnaught/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"page15",
+			"5",
+			"16",
+			"page17",
+			"page18",
+			"page16",
+			".page15",
+			"ani",
+			"animate",
+			"20",
+			"300",
+			"pageHeight",
+			"height",
+			"'",
+			"transform",
+			"addClass",
+			"pageHeight",
+			"next",
+			"animated",
+			"frames flip",
+			"frames fadeInDown",
+			"frames rotateIn",
+			"frames fadeInUp",
+			"frames zoomIn",
+			"animation-name",
+			"frame fadeInLeft",
+			"fadeInLeft",
+			"zoomIn",
+			"fadeInDown",
+			"fadeIn",
+			".page3",
+			"zoomIn",
+			".page12",
+			".left",
+			"cf",
+			"page10",
+			"page9",
+			"ff5400",
+			"9",
+			"page5",
+			"5",
+			"page6",
+			"slideRight",
+			"font-size",
+			"1.5",
+			"1.125",
+			"19",
+			"20",
+			"background-color",
+			"animation",
+			"left",
+			"page1",
+			"\"",
+			"$container.children().eq(currentIndex).css('-webkit-transform-origin', 'center 50%');",
+			"test.mp3",
+			"forward-btn",
+			"holder.js/500x300/text:page",
+			"holder.js/500x300/text:page2",
+			"augment",
+			"run",
+			"prepareDOMElement",
+			"holder",
+			"*",
+			"\"",
+			"&."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\tnaught\\Desktop\\xichao\\html"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8526,
+								8526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4929.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/tnaught/Desktop/xichao/田琴/modify.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/animation.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2776,
+								2776
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2046.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2937,
+								2937
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3001.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/app.min.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1652,
+								1652
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\fuck-project\\fuct-project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 139.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
