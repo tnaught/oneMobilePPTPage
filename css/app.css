@@ -55,7 +55,7 @@ body{
 
 
 .page.animate {
-    -webkit-transition: -webkit-transform .2s ease;
+    -webkit-transition: -webkit-transform .4s ease;
 }
 
 .page {
@@ -127,9 +127,9 @@ body{
             animation-delay: 1s;
 }
 .page1 .text-container {
-    top: 50%;
+    top: 35%;
     margin-top: -2.78125rem;
-    color: #ff0;
+    color: #fff;
     font-weight: 700;
 }
 .page1 .circle {
@@ -138,27 +138,27 @@ body{
   height: auto;
   left: 50%;
   margin-left: -6rem;
-  top: 50%;
+  top: 35%;
   margin-top: -6rem;
 }
 .page1 .line {
   position: absolute;
-  width: 9rem;
-  height: auto;
+  width: 11rem;
+  height: 2.625rem;
   left: 50%;
-  margin-left: -4.5rem;
-  top: 50%;
-  margin-top: -0.4rem;
+  margin-left: -5.5rem;
+  top: 35%;
+  margin-top: -0.9rem;
 }
 .page1.curr .text-container p, .page1.curr .circle, .page1.curr .line {
     -webkit-animation-name: zoomIn;
             animation-name: zoomIn;
 }
 .page2 .text-container {
-    top: 50%;
+    top: 35%;
     margin-top: -4.5rem;
     font-weight: 700;
-    color: #ffff00;
+    color: #fff;
 }
 .page2.curr .text-container {
      -webkit-animation-name: zoomIn;
@@ -399,13 +399,12 @@ body{
              animation-name: rotateIn;
 }
 .page15 .text-container {
-    top: auto;
-    bottom: 15%;
+    top: 40%;
     color: #000;
 }
 .page15.curr .text-container {
-     -webkit-animation-name: rotateIn;
-             animation-name: rotateIn;
+     -webkit-animation-name: zoomIn;
+             animation-name: zoomIn;
 }
 .page16 .text-container {
     text-align: left;

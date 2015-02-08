@@ -22,7 +22,7 @@ function translateFormat (y) {
     return "translate(0, "+y+"px)";
 }
 function scaleFormat (scale) {
-    scale = scale * 0.6 + 0.4;
+    scale = scale * 0.7 + 0.3;
     return "scale("+scale+")";
 }
 
