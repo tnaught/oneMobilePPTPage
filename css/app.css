@@ -92,6 +92,7 @@ body{
     left: 0;
     width: 100%;
     font-size: 1.5rem;
+    font-weight: 700;
     line-height: 1.6;
     overflow: hidden;
     text-align: center;
@@ -125,6 +126,9 @@ body{
 .animated.delay5 {
     -webkit-animation-delay: 1s;
             animation-delay: 1s;
+}
+.page1 {
+    z-index: 1;
 }
 .page1 .text-container {
     top: 35%;
@@ -167,12 +171,12 @@ body{
 .page3 .text-container {
     top: 20%;
     text-align: left;
-    color: #7e2412;
+    color: #fff;
 }
 
 .transparent-bg {
     padding: 0.5rem 1rem;
-    background-color: rgba(252, 252, 252, 0.498039);
+    /*background-color: rgba(252, 252, 252, 0.498039);*/
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
 }
@@ -181,10 +185,10 @@ body{
           animation-name: zoomIn;
 }
 .page4 .text-container {
-    margin-top: -5.0625rem;
-    top: 50%;
+    top: auto;
+    bottom: 3%;
     z-index: 5;
-    color: #7e2412;
+    color: #fff;
     text-align: left;
 }
 .page4 .image-container {
@@ -196,24 +200,28 @@ body{
 }
 .image-container img {
     position: absolute;
-    width: 12rem;
+    height: 25%;
 }
 .image-container .img1 {
+    left: 15%;
+    top: 0.1rem;
     z-index: 1;
-    top: 4%;
 }
 .image-container .img2 {
-    left: 8rem;
-    top: 24%;
+    left: auto;
+    right: 15%;
+    top: 12.5%;
     z-index: 2;
 }
 .image-container .img3 {
+    left: 15%;
     z-index: 3;
-    top: 44%;
+    top: 30%;
 }
 .image-container .img4 {
-    left: 8rem;
-    top: 64%;
+    left: auto;
+    right: 15%;
+    top: 42.5%;
     z-index: 4;
 }
 .page4.curr .text-container {
@@ -241,14 +249,15 @@ body{
     text-align: left;
 }
 .page5 .title {
-    top: 3rem;
+    top: 0.3rem;
     font-size: 1.5rem;
-    color: #7e2412;
+    color: #fff;
 }
 .page5 .description {
-    top: 7rem;
+    top: 3.7rem;
     font-size: 1.125rem;
     color: #000;
+    background-color: rgba(252, 252, 252, 0.498039);
 }
 .page5.curr .description {
     -webkit-animation-name: fadeInLeft;
@@ -274,9 +283,10 @@ body{
 }
 .page8 .title {
     top: auto;
+    bottom: 5.47%;
+    text-align: left;
     font-size: 1.5rem;
     color: #7e2412;
-    bottom: 5.47%;
     margin-bottom: 13.5rem;
 }
 .page8 .description {
@@ -309,7 +319,7 @@ body{
     color: #7e2412;
 }
 .page9 .description {
-    top: 7rem;
+    top: 6rem;
     font-size: 1.125rem;
     color: #000;
 }
@@ -319,16 +329,17 @@ body{
 }
 .page10 .text-container {
     text-align: left;
+    color: #fff;
 }
 .page10 .title {
     top: 3rem;
     font-size: 2rem;
-    color: #7e2412;
+    color: #fff;
 }
 .page10 .description {
     top: 8rem;
     font-size: 1.125rem;
-    color: #000;
+    color: #fff;
     display: table-cell;
 }
 .text-inner {
@@ -337,6 +348,12 @@ body{
 .text-inner .left, .text-inner .right {
     vertical-align: middle;
     display: table-cell;
+}
+.page10 .right {
+    color: #fff;
+}
+.page11 .right {
+    color: #fff;
 }
 .text-inner .left {
     color: #f00;
@@ -357,12 +374,12 @@ body{
     text-align: left;
 }
 .page11 .title {
-    top: 3rem;
+    top: 1%;
     font-size: 2rem;
-    color: #7e2412;
+    color: #fff;
 }
 .page11 .description {
-    top: 8rem;
+    top: 10%;
     font-size: 1.125rem;
     color: #000;
 }
@@ -371,9 +388,9 @@ body{
             animation-name: fadeInLeft;
 }
 .page12 .text-container {
-    width: 70%;
+    width: 100%;
     right: 0%;
-    top: 40%;
+    top: 3%;
     text-align: center;
     color: #7e2412;
 }
@@ -382,7 +399,8 @@ body{
              animation-name: zoomIn;
 }
 .page13 .text-container {
-    top: 40%;
+    top: auto;
+    bottom: 2%;
     color: #7e2412;
 }
 .page13.curr .text-container {
@@ -395,12 +413,12 @@ body{
     color: #000;
 }
 .page14.curr .text-container {
-     -webkit-animation-name: rotateIn;
-             animation-name: rotateIn;
+     -webkit-animation-name: zoomIn;
+             animation-name: zoomIn;
 }
 .page15 .text-container {
-    top: 40%;
-    color: #000;
+    top: 12%;
+    color: #7e2412;
 }
 .page15.curr .text-container {
      -webkit-animation-name: zoomIn;
@@ -412,12 +430,12 @@ body{
 .page16 .title {
     top: 3rem;
     font-size: 1.5rem;
-    color: #7e2412;
+    color: #fff;
 }
 .page16 .description {
-    top: 9rem;
+    top: 8rem;
     font-size: 1.125rem;
-    color: #000;
+    color: #fff;
 }
 .page16.curr .description {
     -webkit-animation-name: fadeInDown;
@@ -428,8 +446,8 @@ body{
     padding-left: 1rem;
 }
 .page16 ul li {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
 }
 
 .page17 .text-container {
@@ -463,13 +481,13 @@ body{
 .page19 .text-container {
     opacity: 1;
     top: auto;
-    bottom: 15%;
+    bottom: 5%;
     color: #ffcf24;
     font-weight: 700;
 }
 .page19.curr .text-container {
-     -webkit-animation-name: flip;
-             animation-name: flip;
+     -webkit-animation-name: zoomIn;
+             animation-name: zoomIn;
 }
 @-webkit-keyframes slideRight {
     0% {

@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"touch",
+				"touchstart"
+			],
+			[
 				"sca",
 				"scaleFormat"
 			],
@@ -34,10 +38,6 @@
 			[
 				"tra",
 				"translateFormat"
-			],
-			[
-				"touch",
-				"touchEnd"
 			],
 			[
 				"to",
@@ -115,23 +115,7 @@
 			"file": "app.html",
 			"settings":
 			{
-				"buffer_size": 10613,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/tnaught/Desktop/xichao/田琴/modify.txt",
-			"settings":
-			{
-				"buffer_size": 587,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/animation.css",
-			"settings":
-			{
-				"buffer_size": 72921,
+				"buffer_size": 10615,
 				"line_ending": "Windows"
 			}
 		},
@@ -139,16 +123,8 @@
 			"file": "css/app.css",
 			"settings":
 			{
-				"buffer_size": 17871,
+				"buffer_size": 17851,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/app.min.css",
-			"settings":
-			{
-				"buffer_size": 13142,
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -234,11 +210,14 @@
 	],
 	"file_history":
 	[
-		"/C/Users/tnaught/Desktop/xichao/归档 (2)/problems.txt",
 		"/C/Users/tnaught/Desktop/xichao/html/js/app.js",
+		"/C/Users/tnaught/Desktop/xichao/html/css/animation.css",
+		"/C/Users/tnaught/Desktop/xichao/田琴/modify.txt",
+		"/C/Users/tnaught/Desktop/xichao/html/css/app.min.css",
+		"/C/Users/tnaught/Desktop/xichao/归档/problems_new.txt",
+		"/C/Users/tnaught/Desktop/xichao/归档 (2)/problems.txt",
 		"/C/Users/tnaught/Desktop/xichao/html/test.html",
 		"/F/dianxinos/code/3y_cms_front_web/target/classes/public/dxhot/javascripts/tiny.js",
-		"/C/Users/tnaught/Desktop/xichao/田琴/modify.txt",
 		"/D/fuck-project/static/home/sass/includes/_layout.scss",
 		"/D/fuck-project/static/home/sass/screen.scss",
 		"/D/fuck-project/sea-modules/holder/holder.js",
@@ -369,15 +348,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10613,
+						"buffer_size": 10615,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8526,
-								8526
+								8438,
+								8438
 							]
 						],
 						"settings":
@@ -387,7 +366,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4929.0,
+						"translation.y": 4676.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -395,77 +374,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/tnaught/Desktop/xichao/田琴/modify.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 587,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								329,
-								329
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "css/animation.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 72921,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2776,
-								2776
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2046.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "css/app.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 17871,
+						"buffer_size": 17851,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2937,
-								2937
+								6726,
+								6726
 							]
 						],
 						"settings":
@@ -475,38 +396,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3001.0,
+						"translation.y": 7459.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "css/app.min.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13142,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1652,
-								1652
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"type": "text"
 				}
 			]

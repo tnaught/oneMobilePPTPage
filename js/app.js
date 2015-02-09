@@ -132,6 +132,9 @@ $(document)
 var audioElement = document.getElementById('media');
 var $audioBtn = $("#audio_btn");
 audioElement.src = 'image/bg-music.mp3';
+$(document).one('touchstart', function() {
+    audioElement.play();
+})
 
 $(audioElement)
 .on('play', function() {
